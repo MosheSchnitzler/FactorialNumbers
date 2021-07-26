@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\EvenFactorial\EvenFactorial\obj\Debug\net5.0\EvenFactorial.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\EvenFactorial\EvenFactorial\obj\Debug\net5.0\EvenFactorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\EvenFactorial\EvenFactorial\obj\Debug\net5.0\EvenFactorial.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\EvenFactorial\EvenFactorial\obj\Debug\net5.0\EvenFactorial.AssemblyInfo.cs
+C:\Users\User\source\repos\EvenFactorial\EvenFactorial\obj\Debug\net5.0\EvenFactorial.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\EvenFactorial\EvenFactorial\bin\Debug\net5.0\EvenFactorial.exe
+C:\Users\User\source\repos\EvenFactorial\EvenFactorial\bin\Debug\net5.0\EvenFactorial.deps.json
+C:\Users\User\source\repos\EvenFactorial\EvenFactorial\bin\Debug\net5.0\EvenFactorial.runtimeconfig.json
+C:\Users\User\source\repos\EvenFactorial\EvenFactorial\bin\Debug\net5.0\EvenFactorial.runtimeconfig.dev.json
+C:\Users\User\source\repos\EvenFactorial\EvenFactorial\bin\Debug\net5.0\EvenFactorial.dll
+C:\Users\User\source\repos\EvenFactorial\EvenFactorial\bin\Debug\net5.0\ref\EvenFactorial.dll
+C:\Users\User\source\repos\EvenFactorial\EvenFactorial\bin\Debug\net5.0\EvenFactorial.pdb
+C:\Users\User\source\repos\EvenFactorial\EvenFactorial\obj\Debug\net5.0\EvenFactorial.dll
+C:\Users\User\source\repos\EvenFactorial\EvenFactorial\obj\Debug\net5.0\ref\EvenFactorial.dll
+C:\Users\User\source\repos\EvenFactorial\EvenFactorial\obj\Debug\net5.0\EvenFactorial.pdb
+C:\Users\User\source\repos\EvenFactorial\EvenFactorial\obj\Debug\net5.0\EvenFactorial.genruntimeconfig.cache
